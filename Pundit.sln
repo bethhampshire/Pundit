@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pundit", "Pundit\Pundit.csproj", "{21AE359B-448A-4E6E-8CD2-A9097C14629E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PunditApi", "EFPundit\PunditApi.csproj", "{A9CB7A85-DCD0-459D-84D3-E58B4CB1CE3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21AE359B-448A-4E6E-8CD2-A9097C14629E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21AE359B-448A-4E6E-8CD2-A9097C14629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21AE359B-448A-4E6E-8CD2-A9097C14629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21AE359B-448A-4E6E-8CD2-A9097C14629E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CB7A85-DCD0-459D-84D3-E58B4CB1CE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CB7A85-DCD0-459D-84D3-E58B4CB1CE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CB7A85-DCD0-459D-84D3-E58B4CB1CE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CB7A85-DCD0-459D-84D3-E58B4CB1CE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
